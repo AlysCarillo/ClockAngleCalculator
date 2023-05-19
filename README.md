@@ -2,7 +2,7 @@
 The Clock Angle Calculator is a simple program that calculates the lesser angle between the hour and minute hands of a clock. It takes the input of hours and minutes from the user and provides the calculated angle.
 
 # Installation
-To use the Clock Angle Calculato, follow these steps:
+To use the Clock Angle Calculator, follow these steps:
 
 1. `Clone` the repository or download the source code.
 2. Open the project in your preferred development environment (e.g., Visual Studio).
